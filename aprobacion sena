@@ -1,0 +1,7 @@
+Algoritmo aprobacion
+	ESCRIBIR "digite cual es su nota con decimales"
+	Leer p
+	SI p >=3.0 entonces  
+		ESCRIBIR "competencia alcanzada"
+	FinSi
+FinAlgoritmo
