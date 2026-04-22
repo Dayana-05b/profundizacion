@@ -1,0 +1,10 @@
+Algoritmo control_de_temperatura
+	definir temperatura Como Real
+	ESCRIBIR "digite cual es la tempertura"
+	Leer temperatura
+	SI temperatura >= 100 entonces  
+		ESCRIBIR "ALERTAAAA abrir valvula de escape PELIGRO PELIGRO"
+	sino 
+		Escribir " temperatura normal no hay peligro"
+	FinSi
+FinAlgoritmo
