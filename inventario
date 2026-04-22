@@ -1,0 +1,10 @@
+Algoritmo inventario
+	definir unidades  Como Real
+	ESCRIBIR "digite cual es el numero de piezas disponibles en bodega "
+	Leer piezas
+	SI piezas  <= 5 entonces  
+		ESCRIBIR "solicitar pedido urgenteeeeee "
+	sino 
+		Escribir " todavia hay piezas disponoble"
+	FinSi
+FinAlgoritmo
