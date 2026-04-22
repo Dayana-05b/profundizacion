@@ -1,0 +1,7 @@
+Algoritmo control_de_acceso
+	ESCRIBIR "digite cual es su edad"
+	Leer p
+	SI p >=18 entonces  
+	ESCRIBIR "BIENVENIDO AL LABORATORIO DE ROBOTICA "
+	FinSi
+FinAlgoritmo
